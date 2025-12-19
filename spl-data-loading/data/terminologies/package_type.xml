@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeList>
+	<packageType>
+		<choice>
+			<label>AMPULE</label>
+			<value>C43165</value>
+		</choice>
+		<choice>
+			<label>APPLICATOR</label>
+			<value>C43166</value>
+		</choice>
+		<choice>
+			<label>BAG</label>
+			<value>C43167</value>
+		</choice>
+		<choice>
+			<label>BLISTER PACK</label>
+			<value>C43168</value>
+		</choice>
+		<choice>
+			<label>BOTTLE</label>
+			<value>C43169</value>
+		</choice>
+		<choice>
+			<label>BOTTLE, DISPENSING</label>
+			<value>C43170</value>
+		</choice>
+		<choice>
+			<label>BOTTLE, DROPPER</label>
+			<value>C43171</value>
+		</choice>
+		<choice>
+			<label>BOTTLE, GLASS</label>
+			<value>C43172</value>
+		</choice>
+		<choice>
+			<label>BOTTLE, PLASTIC</label>
+			<value>C43173</value>
+		</choice>
+		<choice>
+			<label>BOTTLE, PUMP</label>
+			<value>C43174</value>
+		</choice>
+		<choice>
+			<label>BOTTLE, SPRAY</label>
+			<value>C43175</value>
+		</choice>
+		<choice>
+			<label>BOTTLE, UNIT-DOSE</label>
+			<value>C43176</value>
+		</choice>
+		<choice>
+			<label>BOTTLE, WITH APPLICATOR</label>
+			<value>C43177</value>
+		</choice>
+		<choice>
+			<label>BOX</label>
+			<value>C43178</value>
+		</choice>
+		<choice>
+			<label>BOX, UNIT-DOSE</label>
+			<value>C43179</value>
+		</choice>
+		<choice>
+			<label>CAN</label>
+			<value>C43180</value>
+		</choice>
+		<choice>
+			<label>CANISTER</label>
+			<value>C43181</value>
+		</choice>
+		<choice>
+			<label>CARTON</label>
+			<value>C43182</value>
+		</choice>
+		<choice>
+			<label>CAPSULE</label>
+			<value>C92708</value>
+		</choice>
+		<choice>
+			<label>CARTRIDGE</label>
+			<value>C43183</value>
+		</choice>
+		<choice>
+			<label>CASE</label>
+			<value>C43184</value>
+		</choice>
+		<choice>
+			<label>CELLO PACK</label>
+			<value>C43185</value>
+		</choice>
+		<choice>
+			<label>CONTAINER</label>
+			<value>C43186</value>
+		</choice>
+		<choice>
+			<label>CONTAINER, FLEXIBLE INTERMEDIATE BULK</label>
+			<value>C79135</value>
+		</choice>
+		<choice>
+			<label>CUP</label>
+			<value>C43187</value>
+		</choice>
+		<choice>
+			<label>CUP, UNIT-DOSE</label>
+			<value>C43188</value>
+		</choice>
+		<choice>
+			<label>CYLINDER</label>
+			<value>C43189</value>
+		</choice>
+		<choice>
+			<label>DEWAR</label>
+			<value>C43190</value>
+		</choice>
+		<choice>
+			<label>DIALPACK</label>
+			<value>C43191</value>
+		</choice>
+		<choice>
+			<label>DOSE PACK</label>
+			<value>C43192</value>
+		</choice>
+		<choice>
+			<label>DRUM</label>
+			<value>C43193</value>
+		</choice>
+		<choice>
+			<label>INHALER</label>
+			<value>C16738</value>
+		</choice>
+		<choice>
+			<label>INHALER, REFILL</label>
+			<value>C43194</value>
+		</choice>
+		<choice>
+			<label>JAR</label>
+			<value>C43195</value>
+		</choice>
+		<choice>
+			<label>JUG</label>
+			<value>C43196</value>
+		</choice>
+		<choice>
+			<label>KIT</label>
+			<value>C43197</value>
+		</choice>
+		<choice>
+			<label>NOT APPLICABLE</label>
+			<value>C123723</value>
+		</choice>
+		<choice>
+			<label>PACKAGE</label>
+			<value>C43233</value>
+		</choice>
+		<choice>
+			<label>PACKAGE, COMBINATION</label>
+			<value>C43198</value>
+		</choice>
+		<choice>
+			<label>PACKET</label>
+			<value>C43199</value>
+		</choice>
+		<choice>
+			<label>PAIL</label>
+			<value>C79136</value>
+		</choice>
+		<choice>
+			<label>PATCH</label>
+			<value>C82332</value>
+		</choice>
+		<choice>
+			<label>POUCH</label>
+			<value>C43200</value>
+		</choice>
+		<choice>
+			<label>SUPERSACK</label>
+			<value>C43201</value>
+		</choice>
+		<choice>
+			<label>SYRINGE</label>
+			<value>C43202</value>
+		</choice>
+		<choice>
+			<label>SYRINGE, GLASS</label>
+			<value>C43203</value>
+		</choice>
+		<choice>
+			<label>SYRINGE, PLASTIC</label>
+			<value>C43204</value>
+		</choice>
+		<choice>
+			<label>TABMINDER</label>
+			<value>C43205</value>
+		</choice>
+		<choice>
+			<label>TANK</label>
+			<value>C43206</value>
+		</choice>
+		<choice>
+			<label>TRAY</label>
+			<value>C53438</value>
+		</choice>
+		<choice>
+			<label>TUBE</label>
+			<value>C42794</value>
+		</choice>
+		<choice>
+			<label>TUBE, WITH APPLICATOR</label>
+			<value>C43207</value>
+		</choice>
+		<choice>
+			<label>VIAL</label>
+			<value>C43226</value>
+		</choice>
+		<choice>
+			<label>VIAL, DISPENSING</label>
+			<value>C43208</value>
+		</choice>
+		<choice>
+			<label>VIAL, GLASS</label>
+			<value>C43209</value>
+		</choice>
+		<choice>
+			<label>VIAL, MULTI-DOSE</label>
+			<value>C43210</value>
+		</choice>
+		<choice>
+			<label>VIAL, PATENT DELIVERY SYSTEM</label>
+			<value>C43211</value>
+		</choice>
+		<choice>
+			<label>VIAL, PHARMACY BULK PACKAGE</label>
+			<value>C43212</value>
+		</choice>
+		<choice>
+			<label>VIAL, PIGGYBACK</label>
+			<value>C43213</value>
+		</choice>
+		<choice>
+			<label>VIAL, PLASTIC</label>
+			<value>C43214</value>
+		</choice>
+		<choice>
+			<label>VIAL, SINGLE-DOSE</label>
+			<value>C43215</value>
+		</choice>
+		<choice>
+			<label>VIAL, SINGLE-USE</label>
+			<value>C43216</value>
+		</choice>
+	</packageType>
+</codeList>

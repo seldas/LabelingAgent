@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codelist>
+<deaSchedule>
+<choice>
+<label>CI</label>
+<value>C48672</value>
+</choice>
+<choice>
+<label>CII</label>
+<value>C48675</value>
+</choice>
+<choice>
+<label>CIII</label>
+<value>C48676</value>
+</choice>
+<choice>
+<label>CIV</label>
+<value>C48677</value>
+</choice>
+<choice>
+<label>CV</label>
+<value>C48679</value>
+</choice>
+</deaSchedule>
+</codelist>

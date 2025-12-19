@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeList>
+	<dosageForm>
+		<choice>
+			<label>AEROSOL</label>
+			<value>C42887</value>
+		</choice>
+		<choice>
+			<label>AEROSOL, FOAM</label>
+			<value>C42888</value>
+		</choice>
+		<choice>
+			<label>AEROSOL, METERED</label>
+			<value>C42960</value>
+		</choice>
+		<choice>
+			<label>AEROSOL, POWDER</label>
+			<value>C42971</value>
+		</choice>
+		<choice>
+			<label>AEROSOL, SPRAY</label>
+			<value>C42889</value>
+		</choice>
+		<choice>
+			<label>BAR, CHEWABLE</label>
+			<value>C42892</value>
+		</choice>
+		<choice>
+			<label>BEAD</label>
+			<value>C42890</value>
+		</choice>
+		<choice>
+			<label>CAPSULE</label>
+			<value>C25158</value>
+		</choice>
+		<choice>
+			<label>CAPSULE, COATED</label>
+			<value>C42895</value>
+		</choice>
+		<choice>
+			<label>CAPSULE, COATED PELLETS</label>
+			<value>C42896</value>
+		</choice>
+		<choice>
+			<label>CAPSULE, COATED, EXTENDED RELEASE</label>
+			<value>C42917</value>
+		</choice>
+		<choice>
+			<label>CAPSULE, DELAYED RELEASE</label>
+			<value>C42902</value>
+		</choice>
+		<choice>
+			<label>CAPSULE, DELAYED RELEASE PELLETS</label>
+			<value>C42904</value>
+		</choice>
+		<choice>
+			<label>CAPSULE, EXTENDED RELEASE</label>
+			<value>C42916</value>
+		</choice>
+		<choice>
+			<label>CAPSULE, FILM COATED, EXTENDED RELEASE</label>
+			<value>C42928</value>
+		</choice>
+		<choice>
+			<label>CAPSULE, GELATIN COATED</label>
+			<value>C42936</value>
+		</choice>
+		<choice>
+			<label>CAPSULE, LIQUID FILLED</label>
+			<value>C42954</value>
+		</choice>
+		<choice>
+			<label>CELLULAR SHEET</label>
+			<value>C100103</value>
+		</choice>
+		<choice>
+			<label>CHEWABLE GEL</label>
+			<value>C134876</value>
+		</choice>
+		<choice>
+			<label>CLOTH</label>
+			<value>C60884</value>
+		</choice>
+		<choice>
+			<label>CONCENTRATE</label>
+			<value>C60891</value>
+		</choice>
+		<choice>
+			<label>CREAM</label>
+			<value>C28944</value>
+		</choice>
+		<choice>
+			<label>CREAM, AUGMENTED</label>
+			<value>C60897</value>
+		</choice>
+		<choice>
+			<label>CRYSTAL</label>
+			<value>C42901</value>
+		</choice>
+		<choice>
+			<label>DISC</label>
+			<value>C43525</value>
+		</choice>
+		<choice>
+			<label>DOUCHE</label>
+			<value>C42679</value>
+		</choice>
+		<choice>
+			<label>DRESSING</label>
+			<value>C42763</value>
+		</choice>
+		<choice>
+			<label>ELIXIR</label>
+			<value>C42912</value>
+		</choice>
+		<choice>
+			<label>EMULSION</label>
+			<value>C42913</value>
+		</choice>
+		<choice>
+			<label>ENEMA</label>
+			<value>C42915</value>
+		</choice>
+		<choice>
+			<label>EXTRACT</label>
+			<value>C42929</value>
+		</choice>
+		<choice>
+			<label>FIBER, EXTENDED RELEASE</label>
+			<value>C60926</value>
+		</choice>
+		<choice>
+			<label>FILM</label>
+			<value>C42932</value>
+		</choice>
+		<choice>
+			<label>FILM, EXTENDED RELEASE</label>
+			<value>C42920</value>
+		</choice>
+		<choice>
+			<label>FILM, SOLUBLE</label>
+			<value>C42984</value>
+		</choice>
+		<choice>
+			<label>FOR SOLUTION</label>
+			<value>C60927</value>
+		</choice>
+		<choice>
+			<label>FOR SUSPENSION</label>
+			<value>C60928</value>
+		</choice>
+		<choice>
+			<label>FOR SUSPENSION, EXTENDED RELEASE</label>
+			<value>C60929</value>
+		</choice>
+		<choice>
+			<label>GAS</label>
+			<value>C42933</value>
+		</choice>
+		<choice>
+			<label>GEL</label>
+			<value>C42934</value>
+		</choice>
+		<choice>
+			<label>GEL, DENTIFRICE</label>
+			<value>C42906</value>
+		</choice>
+		<choice>
+			<label>GEL, METERED</label>
+			<value>C60930</value>
+		</choice>
+		<choice>
+			<label>GLOBULE</label>
+			<value>C42937</value>
+		</choice>
+		<choice>
+			<label>GRANULE</label>
+			<value>C42938</value>
+		</choice>
+		<choice>
+			<label>GRANULE, DELAYED RELEASE</label>
+			<value>C42903</value>
+		</choice>
+		<choice>
+			<label>GRANULE, EFFERVESCENT</label>
+			<value>C42909</value>
+		</choice>
+		<choice>
+			<label>GRANULE, FOR SOLUTION</label>
+			<value>C42939</value>
+		</choice>
+		<choice>
+			<label>GRANULE, FOR SUSPENSION</label>
+			<value>C42940</value>
+		</choice>
+		<choice>
+			<label>GRANULE, FOR SUSPENSION, EXTENDED RELEASE</label>
+			<value>C42921</value>
+		</choice>
+		<choice>
+			<label>GUM, CHEWING</label>
+			<value>C42894</value>
+		</choice>
+		<choice>
+			<label>IMPLANT</label>
+			<value>C42942</value>
+		</choice>
+		<choice>
+			<label>INHALANT</label>
+			<value>C42944</value>
+		</choice>
+		<choice>
+			<label>INJECTABLE FOAM</label>
+			<value>C113106</value>
+		</choice>
+	    <choice>
+			<label>INJECTABLE, LIPOSOMAL</label>
+			<value>C60931</value>
+		</choice>
+		<choice>
+			<label>INJECTION</label>
+			<value>C42946</value>
+		</choice>
+		<choice>
+			<label>INJECTION, EMULSION</label>
+			<value>C42914</value>
+		</choice>
+		<choice>
+			<label>INJECTION, LIPID COMPLEX</label>
+			<value>C42950</value>
+		</choice>
+		<choice>
+			<label>INJECTION, POWDER, FOR SOLUTION</label>
+			<value>C42974</value>
+		</choice>
+		<choice>
+			<label>INJECTION, POWDER, FOR SUSPENSION</label>
+			<value>C42976</value>
+		</choice>
+		<choice>
+			<label>INJECTION, POWDER, FOR SUSPENSION, EXTENDED RELEASE</label>
+			<value>C42977</value>
+		</choice>
+		<choice>
+			<label>INJECTION, POWDER, LYOPHILIZED, FOR LIPOSOMAL SUSPENSION</label>
+			<value>C42959</value>
+		</choice>
+		<choice>
+			<label>INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION</label>
+			<value>C42957</value>
+		</choice>
+		<choice>
+			<label>INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION</label>
+			<value>C42958</value>
+		</choice>
+		<choice>
+			<label>INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION, EXTENDED RELEASE</label>
+			<value>C42956</value>
+		</choice>
+		<choice>
+			<label>INJECTION, SOLUTION</label>
+			<value>C42945</value>
+		</choice>
+		<choice>
+			<label>INJECTION, SOLUTION, CONCENTRATE</label>
+			<value>C42899</value>
+		</choice>
+		<choice>
+			<label>INJECTION, SUSPENSION</label>
+			<value>C42995</value>
+		</choice>
+		<choice>
+			<label>INJECTION, SUSPENSION, EXTENDED RELEASE</label>
+			<value>C42926</value>
+		</choice>
+		<choice>
+			<label>INJECTION, SUSPENSION, LIPOSOMAL</label>
+			<value>C42951</value>
+		</choice>
+		<choice>
+			<label>INJECTION, SUSPENSION, SONICATED</label>
+			<value>C42988</value>
+		</choice>
+		<choice>
+			<label>INSERT</label>
+			<value>C60933</value>
+		</choice>
+		<choice>
+			<label>INSERT, EXTENDED RELEASE</label>
+			<value>C42922</value>
+		</choice>
+		<choice>
+			<label>INTRAUTERINE DEVICE</label>
+			<value>C47915</value>
+		</choice>
+		<choice>
+			<label>IRRIGANT</label>
+			<value>C42947</value>
+		</choice>
+		<choice>
+			<label>JELLY</label>
+			<value>C42948</value>
+		</choice>
+		<choice>
+			<label>KIT</label>
+			<value>C47916</value>
+		</choice>
+		<choice>
+			<label>LINIMENT</label>
+			<value>C42949</value>
+		</choice>
+		<choice>
+			<label>LIPSTICK</label>
+			<value>C42952</value>
+		</choice>
+		<choice>
+			<label>LIQUID</label>
+			<value>C42953</value>
+		</choice>
+		<choice>
+			<label>LIQUID, EXTENDED RELEASE</label>
+			<value>C60934</value>
+		</choice>
+		<choice>
+			<label>LOTION</label>
+			<value>C29167</value>
+		</choice>
+		<choice>
+			<label>LOTION, AUGMENTED</label>
+			<value>C60957</value>
+		</choice>
+		<choice>
+			<label>LOTION/SHAMPOO</label>
+			<value>C60958</value>
+		</choice>
+		<choice>
+			<label>LOZENGE</label>
+			<value>C42955</value>
+		</choice>
+		<choice>
+			<label>MOUTHWASH</label>
+			<value>C29269</value>
+		</choice>
+		<choice>
+			<label>NOT APPLICABLE</label>
+			<value>C48624</value>
+		</choice>
+		<choice>
+			<label>OIL</label>
+			<value>C42965</value>
+		</choice>
+		<choice>
+			<label>OINTMENT</label>
+			<value>C42966</value>
+		</choice>
+		<choice>
+			<label>OINTMENT, AUGMENTED</label>
+			<value>C60984</value>
+		</choice>
+		<choice>
+			<label>PASTE</label>
+			<value>C42967</value>
+		</choice>
+		<choice>
+			<label>PASTE, DENTIFRICE</label>
+			<value>C42907</value>
+		</choice>
+		<choice>
+			<label>PASTILLE</label>
+			<value>C60985</value>
+		</choice>
+		<choice>
+			<label>PATCH</label>
+			<value>C42968</value>
+		</choice>
+		<choice>
+			<label>PATCH, EXTENDED RELEASE</label>
+			<value>C42923</value>
+		</choice>
+		<choice>
+			<label>PATCH, EXTENDED RELEASE, ELECTRICALLY CONTROLLED</label>
+			<value>C42911</value>
+		</choice>
+		<choice>
+			<label>PELLET</label>
+			<value>C42969</value>
+		</choice>
+		<choice>
+			<label>PELLET, IMPLANTABLE</label>
+			<value>C42943</value>
+		</choice>
+		<choice>
+			<label>PELLETS, COATED, EXTENDED RELEASE</label>
+			<value>C42918</value>
+		</choice>
+		<choice>
+			<label>PILL</label>
+			<value>C25394</value>
+		</choice>
+		<choice>
+			<label>PLASTER</label>
+			<value>C42970</value>
+		</choice>
+		<choice>
+			<label>POULTICE</label>
+			<value>C47913</value>
+		</choice>
+		<choice>
+			<label>POWDER</label>
+			<value>C42972</value>
+		</choice>
+		<choice>
+			<label>POWDER, DENTIFRICE</label>
+			<value>C42908</value>
+		</choice>
+		<choice>
+			<label>POWDER, FOR SOLUTION</label>
+			<value>C42973</value>
+		</choice>
+		<choice>
+			<label>POWDER, FOR SUSPENSION</label>
+			<value>C42975</value>
+		</choice>
+		<choice>
+			<label>POWDER, METERED</label>
+			<value>C42961</value>
+		</choice>
+		<choice>
+			<label>RING</label>
+			<value>C60988</value>
+		</choice>
+		<choice>
+			<label>RINSE</label>
+			<value>C42979</value>
+		</choice>
+		<choice>
+			<label>SALVE</label>
+			<value>C42980</value>
+		</choice>
+		<choice>
+			<label>SHAMPOO</label>
+			<value>C42981</value>
+		</choice>
+		<choice>
+			<label>SHAMPOO, SUSPENSION</label>
+			<value>C42982</value>
+		</choice>
+		<choice>
+			<label>SOAP</label>
+			<value>C42983</value>
+		</choice>
+		<choice>
+			<label>SOLUTION</label>
+			<value>C42986</value>
+		</choice>
+		<choice>
+			<label>SOLUTION, CONCENTRATE</label>
+			<value>C42898</value>
+		</choice>
+		<choice>
+			<label>SOLUTION, FOR SLUSH</label>
+			<value>C42987</value>
+		</choice>
+		<choice>
+			<label>SOLUTION, GEL FORMING / DROPS</label>
+			<value>C60994</value>
+		</choice>
+		<choice>
+			<label>SOLUTION, GEL FORMING, EXTENDED RELEASE</label>
+			<value>C42935</value>
+		</choice>
+		<choice>
+			<label>SOLUTION/ DROPS</label>
+			<value>C60992</value>
+		</choice>
+		<choice>
+			<label>SPONGE</label>
+			<value>C47912</value>
+		</choice>
+		<choice>
+			<label>SPRAY</label>
+			<value>C42989</value>
+		</choice>
+		<choice>
+			<label>SPRAY, METERED</label>
+			<value>C42962</value>
+		</choice>
+		<choice>
+			<label>SPRAY, SUSPENSION</label>
+			<value>C42990</value>
+		</choice>
+		<choice>
+			<label>STICK</label>
+			<value>C42991</value>
+		</choice>
+		<choice>
+			<label>STRIP</label>
+			<value>C47914</value>
+		</choice>
+		<choice>
+			<label>SUPPOSITORY</label>
+			<value>C42993</value>
+		</choice>
+		<choice>
+			<label>SUPPOSITORY, EXTENDED RELEASE</label>
+			<value>C42924</value>
+		</choice>
+		<choice>
+			<label>SUSPENSION</label>
+			<value>C42994</value>
+		</choice>
+		<choice>
+			<label>SUSPENSION, EXTENDED RELEASE</label>
+			<value>C42925</value>
+		</choice>
+		<choice>
+			<label>SUSPENSION/ DROPS</label>
+			<value>C60995</value>
+		</choice>
+		<choice>
+			<label>SWAB</label>
+			<value>C47898</value>
+		</choice>
+		<choice>
+			<label>SYRUP</label>
+			<value>C42996</value>
+		</choice>
+		<choice>
+			<label>SYSTEM</label>
+			<value>C17423</value>
+		</choice>
+		<choice>
+			<label>TABLET</label>
+			<value>C42998</value>
+		</choice>
+		<choice>
+			<label>TABLET, CHEWABLE</label>
+			<value>C42893</value>
+		</choice>
+		<choice>
+			<label>TABLET, CHEWABLE, EXTENDED RELEASE</label>
+			<value>C124794</value>
+		</choice>
+		<choice>
+			<label>TABLET, COATED</label>
+			<value>C42897</value>
+		</choice>
+		<choice>
+			<label>TABLET, COATED PARTICLES</label>
+			<value>C60997</value>
+		</choice>
+		<choice>
+			<label>TABLET, DELAYED RELEASE</label>
+			<value>C42905</value>
+		</choice>
+		<choice>
+			<label>TABLET, DELAYED RELEASE PARTICLES</label>
+			<value>C42997</value>
+		</choice>
+		<choice>
+			<label>TABLET, EFFERVESCENT</label>
+			<value>C42910</value>
+		</choice>
+		<choice>
+			<label>TABLET, EXTENDED RELEASE</label>
+			<value>C42927</value>
+		</choice>
+		<choice>
+			<label>TABLET, FILM COATED</label>
+			<value>C42931</value>
+		</choice>
+		<choice>
+			<label>TABLET, FILM COATED, EXTENDED RELEASE</label>
+			<value>C42930</value>
+		</choice>
+		<choice>
+			<label>TABLET, FOR SOLUTION</label>
+			<value>C61004</value>
+		</choice>
+		<choice>
+			<label>TABLET, FOR SUSPENSION</label>
+			<value>C61005</value>
+		</choice>
+		<choice>
+			<label>TABLET, MULTILAYER</label>
+			<value>C42964</value>
+		</choice>
+		<choice>
+			<label>TABLET, MULTILAYER, EXTENDED RELEASE</label>
+			<value>C42963</value>
+		</choice>
+		<choice>
+			<label>TABLET, ORALLY DISINTEGRATING</label>
+			<value>C42999</value>
+		</choice>
+		<choice>
+			<label>TABLET, ORALLY DISINTEGRATING, DELAYED RELEASE</label>
+			<value>C61006</value>
+		</choice>
+		<choice>
+			<label>TABLET, SOLUBLE</label>
+			<value>C42985</value>
+		</choice>
+		<choice>
+			<label>TABLET, SUGAR COATED</label>
+			<value>C42992</value>
+		</choice>
+		<choice>
+			<label>TABLET WITH SENSOR</label>
+			<value>C147579</value>
+		</choice>
+		<choice>
+			<label>TAMPON</label>
+			<value>C47892</value>
+		</choice>
+		<choice>
+			<label>TAPE</label>
+			<value>C47897</value>
+		</choice>
+		<choice>
+			<label>TINCTURE</label>
+			<value>C43000</value>
+		</choice>
+		<choice>
+			<label>TROCHE</label>
+			<value>C43001</value>
+		</choice>
+		<choice>
+			<label>WAFER</label>
+			<value>C43003</value>
+		</choice>
+	</dosageForm>
+</codeList>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeList>
+	<marketingCategory>
+		<choice>
+			<label>ANADA</label>
+			<value>C73583</value>
+		</choice>
+		<choice>
+			<label>ANDA</label>
+			<value>C73584</value>
+		</choice>
+		<choice>
+			<label>APPROVED DRUG PRODUCT MANUFACTURED EXCLUSIVELY FOR PRIVATE LABEL DISTRIBUTOR</label>
+			<value>C95600</value>
+		</choice>
+		<choice>
+			<label>BLA</label>
+			<value>C73585</value>
+		</choice>
+		<choice>
+			<label>bulk ingredient</label>
+			<value>C73626</value>
+		</choice>
+		<choice>
+			<label>BULK INGREDIENT FOR ANIMAL DRUG COMPOUNDING</label>
+			<value>C98252</value>
+		</choice>
+		<choice>
+			<label>BULK INGREDIENT FOR HUMAN PRESCRIPTION COMPOUNDING</label>
+			<value>C96793</value>
+		</choice>
+		<choice>
+			<label>Conditional NADA</label>
+			<value>C73588</value>
+		</choice>
+		<choice>
+			<label>Cosmetic</label>
+			<value>C86965</value>
+		</choice>
+		<choice>
+			<label>DIETARY SUPPLEMENT</label>
+			<value>C86952</value>
+		</choice>
+		<choice>
+			<label>Drug for Further Processing</label>
+			<value>C94795</value>
+		</choice>
+		<choice>
+			<label>Exempt device</label>
+			<value>C80438</value>
+		</choice>
+		<choice>
+			<label>Export only</label>
+			<value>C73590</value>
+		</choice>
+		<choice>
+			<label>Humanitarian Device Exemption</label>
+			<value>C80440</value>
+		</choice>
+		<choice>
+			<label>IND</label>
+			<value>C75302</value>
+		</choice>
+		<choice>
+			<label>Legally Marketed Unapproved New Animal Drugs for Minor Species</label>
+			<value>C92556</value>
+		</choice>
+		<choice>
+			<label>Medical Food</label>
+			<value>C86964</value>
+		</choice>
+		<choice>
+			<label>NADA</label>
+			<value>C73593</value>
+		</choice>
+		<choice>
+			<label>NDA</label>
+			<value>C73594</value>
+		</choice>
+		<choice>
+			<label>NDA authorized generic</label>
+			<value>C73605</value>
+		</choice>
+	      <choice>
+			<label>OTC MONOGRAPH DRUG PRODUCT MANUFACTURED EXCLUSIVELY FOR PRIVATE LABEL DISTRIBUTOR</label>
+			<value>C95601</value>
+		</choice>
+		<choice>
+			<label>OTC monograph final</label>
+			<value>C73603</value>
+		</choice>
+		<choice>
+			<label>OTC monograph not final</label>
+			<value>C73604</value>
+		</choice>
+				<choice>
+			<label>Premarket Application</label>
+			<value>C80441</value>
+		</choice>
+	    <choice>
+			<label>Premarket Notification</label>
+			<value>C80442</value>
+		</choice>
+		<choice>
+			<label>Unapproved drug for use in drug shortage</label>
+			<value>C101533</value>
+		</choice>
+		<choice>
+			<label>unapproved drug other</label>
+			<value>C73627</value>
+		</choice>
+		<choice>
+			<label>UNAPPROVED DRUG PRODUCT MANUFACTURED EXCLUSIVELY FOR PRIVATE LABEL DISTRIBUTOR</label>
+			<value>C95602</value>
+		</choice>
+		<choice>
+			<label>unapproved homeopathic</label>
+			<value>C73614</value>
+		</choice>
+		<choice>
+			<label>unapproved medical gas</label>
+			<value>C73613</value>
+		</choice>
+	</marketingCategory>
+</codeList>

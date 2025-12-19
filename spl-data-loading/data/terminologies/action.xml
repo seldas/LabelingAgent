@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeList>
+<action>
+<choice>
+<label>active</label>
+<value>C118408</value>
+</choice>
+<choice>
+<label>resolved</label>
+<value>C118471</value>
+</choice>
+<choice>
+<label>other</label>
+<value>C118472</value>
+</choice>
+<choice>
+<label>revoked</label>
+<value>C118407</value>
+</choice>
+<choice>
+<label>suspended</label>
+<value>C118406</value>
+</choice>
+</action>
+</codeList>

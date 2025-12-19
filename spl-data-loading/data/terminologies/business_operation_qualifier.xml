@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codelist>
+	<businessOperationQualifier>
+		<choice>
+			<label>Distributes human prescription drug products</label>
+			<value>C111077</value>
+		</choice>
+		<choice>
+			<label>Distributes human over-the-counter drug products</label>
+			<value>C111078</value>
+		</choice>
+		<choice>
+			<label>Manufactures human over-the-counter drug products</label>
+			<value>C106645</value>
+		</choice>
+		<choice>
+			<label>Manufactures human prescription drug products</label>
+			<value>C106643</value>
+		</choice>
+		<choice>
+			<label>Manufactures Non-Generics</label>
+			<value>C101886</value>
+		</choice>
+		<choice>
+			<label>Intent to compound 506E (drug shortage) drugs</label>
+			<value>C112087</value>
+		</choice>
+		<choice>
+			<label>No intent to compound 506E (drug shortage) drugs</label>
+			<value>C112091</value>
+		</choice>
+		<choice>
+			<label>Compounding from bulk ingredient</label>
+			<value>C112092</value>
+		</choice>
+		<choice>
+			<label>Not compounding from bulk ingredient</label>
+			<value>C112093</value>
+		</choice>
+		<choice>
+			<label>Compounding sterile products</label>
+			<value>C112094</value>
+		</choice>
+		<choice>
+			<label>Not compounding sterile products</label>
+			<value>C112095</value>
+		</choice>
+		<choice>
+			<label>Manufactures animal prescription drug products</label>
+			<value>C114889</value>
+		</choice>
+		<choice>
+			<label>Manufactures animal over-the-counter drug products</label>
+			<value>C114891</value>
+		</choice>
+		<choice>
+			<label>Manufactures animal over-the-counter Type A medicated article drug products</label>
+			<value>C114892</value>
+		</choice>
+		<choice>
+			<label>Manufactures veterinary feed directive Type A medicated article drug products</label>
+			<value>C114890</value>
+		</choice>
+		<choice>
+			<label>Warehouses human prescription drug products</label>
+			<value>C123274</value>
+		</choice>
+		<choice>
+			<label>Transfills Medical Gas</label>
+			<value>C126091</value>
+		</choice>
+		<choice>
+			<label>manufactures human over-the-counter drug products produced under a monograph</label>
+			<value>C131708</value>
+		</choice>
+		<choice>
+			<label>manufactures human over-the-counter drug products produced under an approved drug application</label>
+			<value>C131709</value>
+		</choice>
+		<choice>
+			<label>manufactures human over-the-counter drug products not produced under an approved drug application or under a monograph</label>
+			<value>C131710</value>
+		</choice>
+		<choice>
+			<label>Contract Manufacturing</label>
+			<value>C132491</value>
+		</choice>
+	</businessOperationQualifier>
+</codelist>

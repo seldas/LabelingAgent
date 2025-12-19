@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codelist>
+	<businessOperation>
+		<choice>
+			<label>analysis</label>
+			<value>C25391</value>
+		</choice>
+		<choice>
+			<label>api/fdf analytical testing</label>
+			<value>C101509</value>
+		</choice>
+		<choice>
+			<label>clinical bioequivalence or bioavailability study</label>
+			<value>C101511</value>
+		</choice>
+		<choice>
+			<label>distributes drug products under own private label</label>
+			<value>C73608</value>
+		</choice>
+		<choice>
+			<label>fdf manufacture</label>
+			<value>C101510</value>
+		</choice>
+		<choice>
+			<label>in vitro bioequivalence or bioanalytical testing</label>
+			<value>C101512</value>
+		</choice>
+		<choice>
+			<label>api manufacture</label>
+			<value>C82401</value>
+		</choice>
+		<choice>
+			<label>human drug compounding outsourcing facility</label>
+			<value>C112113</value>
+		</choice>
+		<choice>
+			<label>import</label>
+			<value>C73599</value>
+		</choice>
+		<choice>
+			<label>label</label>
+			<value>C84732</value>
+		</choice>
+		<choice>
+			<label>manufacture</label>
+			<value>C43360</value>
+		</choice>
+		<choice>
+			<label>medicated animal feed manufacture</label>
+			<value>C84635</value>
+		</choice>
+		<choice>
+			<label>outsourcing animal drug compounding</label>
+			<value>C122061</value>
+		</choice>
+		<choice>
+			<label>pack</label>
+			<value>C84731</value>
+		</choice>
+		<choice>
+			<label>particle size reduction</label>
+			<value>C84386</value>
+		</choice>
+		<choice>
+			<label>positron emission tomography drug production</label>
+			<value>C91403</value>
+		</choice>
+		<choice>
+			<label>relabel</label>
+			<value>C73607</value>
+		</choice>
+		<choice>
+			<label>repack</label>
+			<value>C73606</value>
+		</choice>
+		<choice>
+			<label>salvage</label>
+			<value>C70827</value>
+		</choice>
+		<choice>
+			<label>sterilize</label>
+			<value>C84382</value>
+		</choice>
+		<choice>
+			<label>wholesale drug distributor</label>
+			<value>C118411</value>
+		</choice>
+		<choice>
+			<label>third-party logistics provider</label>
+			<value>C118412</value>
+		</choice>
+		<choice>
+			<label>transfill</label>
+			<value>C125710</value>
+		</choice>
+		<choice>
+			<label>united states agent</label>
+			<value>C73330</value>
+		</choice>
+	</businessOperation>
+</codelist>

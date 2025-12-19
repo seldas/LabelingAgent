@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeList>
+	<sectionHeading>
+		<choice>
+			<label>ABUSE SECTION</label>
+			<value>34086-9</value>
+		</choice>
+				<choice>
+			<label>ACCESSORIES</label>
+			<value>60555-0</value>
+		</choice>
+		<choice>
+			<label>ADVERSE REACTIONS SECTION</label>
+			<value>34084-4</value>
+		</choice>
+		<choice>
+			<label>ALARMS</label>
+			<value>69761-5</value>
+		</choice>
+		<choice>
+			<label>ANIMAL PHARMACOLOGY &amp; OR TOXICOLOGY SECTION</label>
+			<value>34091-9</value>
+		</choice>
+		<choice>
+			<label>ASSEMBLY OR INSTALLATION INSTRUCTIONS</label>
+			<value>60556-8</value>
+		</choice>
+		<choice>
+			<label>BOXED WARNING SECTION</label>
+			<value>34066-1</value>
+		</choice>
+		<choice>
+			<label>CALIBRATION INSTRUCTIONS</label>
+			<value>60557-6</value>
+		</choice>
+		<choice>
+			<label>CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION</label>
+			<value>34083-6</value>
+		</choice>
+		<choice>
+			<label>CLEANING, DISINFECTING, AND STERILIZATION INSTRUCTIONS</label>
+			<value>60558-4</value>
+		</choice>
+		<choice>
+			<label>CLINICAL PHARMACOLOGY SECTION</label>
+			<value>34090-1</value>
+		</choice>
+		<choice>
+			<label>CLINICAL STUDIES SECTION</label>
+			<value>34092-7</value>
+		</choice>
+		<choice>
+			<label>CLINICAL TRIALS EXPERIENCE SECTION</label>
+			<value>90374-0</value>
+		</choice>
+		<choice>
+			<label>COMPATIBLE ACCESSORIES</label>
+			<value>69760-7</value>
+		</choice>
+		<choice>
+			<label>COMPONENTS</label>
+			<value>60559-2</value>
+		</choice>
+		<choice>
+			<label>CONTRAINDICATIONS SECTION</label>
+			<value>34070-3</value>
+		</choice>
+		<choice>
+			<label>CONTROLLED SUBSTANCE SECTION</label>
+			<value>34085-1</value>
+		</choice>
+		<choice>
+			<label>DEPENDENCE SECTION</label>
+			<value>34087-7</value>
+		</choice>
+		<choice>
+			<label>DESCRIPTION SECTION</label>
+			<value>34089-3</value>
+		</choice>
+		<choice>
+			<label>DIAGRAM OF DEVICE</label>
+			<value>69758-1</value>
+		</choice>
+		<choice>
+			<label>DISPOSAL AND WASTE HANDLING</label>
+			<value>69763-1</value>
+		</choice>
+		<choice>
+			<label>DOSAGE &amp; ADMINISTRATION SECTION</label>
+			<value>34068-7</value>
+		</choice>
+		<choice>
+			<label>DOSAGE FORMS &amp; STRENGTHS SECTION</label>
+			<value>43678-2</value>
+		</choice>
+		<choice>
+			<label>DRUG &amp; OR LABORATORY TEST INTERACTIONS SECTION</label>
+			<value>34074-5</value>
+		</choice>
+		<choice>
+			<label>DRUG ABUSE AND DEPENDENCE SECTION</label>
+			<value>42227-9</value>
+		</choice>
+		<choice>
+			<label>DRUG INTERACTIONS SECTION</label>
+			<value>34073-7</value>
+		</choice>
+		<choice>
+			<label>ENVIRONMENTAL WARNING SECTION</label>
+			<value>50742-6</value>
+		</choice>
+		<choice>
+			<label>FEMALES &amp; MALES OF REPRODUCTIVE POTENTIAL SECTION</label>
+			<value>77291-3</value>
+		</choice>
+		<choice>
+			<label>FOOD SAFETY WARNING SECTION</label>
+			<value>50743-4</value>
+		</choice>
+		<choice>
+			<label>GENERAL PRECAUTIONS SECTION</label>
+			<value>34072-9</value>
+		</choice>
+		<choice>
+			<label>GERIATRIC USE SECTION</label>
+			<value>34082-8</value>
+		</choice>
+		<choice>
+			<label>GUARANTEED ANALYSIS OF FEED SECTION</label>
+			<value>50740-0</value>
+		</choice>
+		<choice>
+			<label>HEPATIC IMPAIRMENT SUBSECTION</label>
+			<value>88829-7</value>
+		</choice>
+		<choice>
+			<label>HEALTH CARE PROVIDER LETTER SECTION</label>
+			<value>71744-7</value>
+		</choice>
+		<choice>
+			<label>HEALTH CLAIM SECTION</label>
+			<value>69719-3</value>
+		</choice>
+		<choice>
+			<label>HOW SUPPLIED SECTION</label>
+			<value>34069-5</value>
+		</choice>
+		<choice>
+			<label>IMMUNOGENICITY</label>
+			<value>88830-5</value>
+		</choice>
+		<choice>
+			<label>INACTIVE INGREDIENT SECTION</label>
+			<value>51727-6</value>
+		</choice>
+		<choice>
+			<label>INDICATIONS &amp; USAGE SECTION</label>
+			<value>34067-9</value>
+		</choice>
+		<choice>
+			<label>INFORMATION FOR OWNERS/CAREGIVERS SECTION</label>
+			<value>50744-2</value>
+		</choice>
+		<choice>
+			<label>INFORMATION FOR PATIENTS SECTION</label>
+			<value>34076-0</value>
+		</choice>
+		<choice>
+			<label>INSTRUCTIONS FOR USE SECTION</label>
+			<value>59845-8</value>
+		</choice>
+		<choice>
+			<label>INTENDED USE OF THE DEVICE</label>
+			<value>60560-0</value>
+		</choice>
+		<choice>
+			<label>LABOR &amp; DELIVERY SECTION</label>
+			<value>34079-4</value>
+		</choice>
+		<choice>
+			<label>LACTATION SECTION</label>
+			<value>77290-5</value>
+		</choice>
+		<choice>
+			<label>LABORATORY TESTS SECTION</label>
+			<value>34075-2</value>
+		</choice>
+		<choice>
+			<label>MECHANISM OF ACTION SECTION</label>
+			<value>43679-0</value>
+		</choice>
+		<choice>
+			<label>MICROBIOLOGY SECTION</label>
+			<value>49489-8</value>
+		</choice>
+		<choice>
+			<label>NONCLINICAL TOXICOLOGY SECTION</label>
+			<value>43680-8</value>
+		</choice>
+		<choice>
+			<label>NONTERATOGENIC EFFECTS SECTION</label>
+			<value>34078-6</value>
+		</choice>
+		<choice>
+			<label>NURSING MOTHERS SECTION</label>
+			<value>34080-2</value>
+		</choice>
+		<choice>
+			<label>OVERDOSAGE SECTION</label>
+			<value>34088-5</value>
+		</choice>
+		<choice>
+			<label>OTC - ACTIVE INGREDIENT SECTION</label>
+			<value>55106-9</value>
+		</choice>
+		<choice>
+			<label>OTC - ASK DOCTOR SECTION</label>
+			<value>50569-3</value>
+		</choice>
+		<choice>
+			<label>OTC - ASK DOCTOR/PHARMACIST SECTION</label>
+			<value>50568-5</value>
+		</choice>
+		<choice>
+			<label>OTC - DO NOT USE SECTION</label>
+			<value>50570-1</value>
+		</choice>
+		<choice>
+			<label>OTC - KEEP OUT OF REACH OF CHILDREN SECTION</label>
+			<value>50565-1</value>
+		</choice>
+		<choice>
+			<label>OTC - PREGNANCY OR BREAST FEEDING SECTION</label>
+			<value>53414-9</value>
+		</choice>
+		<choice>
+			<label>OTC - PURPOSE SECTION</label>
+			<value>55105-1</value>
+		</choice>
+		<choice>
+			<label>OTC - QUESTIONS SECTION</label>
+			<value>53413-1</value>
+		</choice>
+		<choice>
+			<label>OTC - STOP USE SECTION</label>
+			<value>50566-9</value>
+		</choice>
+		<choice>
+			<label>OTC - WHEN USING SECTION</label>
+			<value>50567-7</value>
+		</choice>
+		<choice>
+			<label>OTHER SAFETY INFORMATION</label>
+			<value>60561-8</value>
+		</choice>
+		<choice>
+			<label>PACKAGE LABEL.PRINCIPAL DISPLAY PANEL</label>
+			<value>51945-4</value>
+		</choice>
+		<choice>
+			<label>PATIENT COUNSELING INFORMATION</label>
+			<value>88436-1</value>
+		</choice>
+		<choice>
+			<label>PATIENT MEDICATION INFORMATION SECTION</label>
+			<value>68498-5</value>
+		</choice>
+		<choice>
+			<label>PEDIATRIC USE SECTION</label>
+			<value>34081-0</value>
+		</choice>
+		<choice>
+			<label>PHARMACODYNAMICS SECTION</label>
+			<value>43681-6</value>
+		</choice>
+		<choice>
+			<label>PHARMACOGENOMICS SECTION</label>
+			<value>66106-6</value>
+		</choice>
+		<choice>
+			<label>PHARMACOKINETICS SECTION</label>
+			<value>43682-4</value>
+		</choice>
+		<choice>
+			<label>POSTMARKETING EXPERIENCE SECTION</label>
+			<value>90375-7</value>
+		</choice>
+		<choice>
+			<label>PRECAUTIONS SECTION</label>
+			<value>42232-9</value>
+		</choice>
+		<choice>
+			<label>PREGNANCY SECTION</label>
+			<value>42228-7</value>
+		</choice>
+		<choice>
+			<label>RECENT MAJOR CHANGES SECTION</label>
+			<value>43683-2</value>
+		</choice>
+		<choice>
+			<label>REFERENCES SECTION</label>
+			<value>34093-5</value>
+		</choice>
+		<choice>
+			<label>REMS ADMINISTRATIVE INFORMATION</label>
+			<value>87523-7</value>
+		</choice>
+		<choice>
+			<label>REMS APPLICANT REQUIREMENTS</label>
+			<value>87526-0</value>
+		</choice>
+		<choice>
+			<label>REMS COMMUNICATION PLAN</label>
+			<value>82344-3</value>
+		</choice>
+		<choice>
+			<label>REMS ELEMENTS</label>
+			<value>82348-4</value>
+		</choice>
+		<choice>
+			<label>REMS ELEMENTS TO ASSURE SAFE USE</label>
+			<value>82345-0</value>
+		</choice>
+		<choice>
+			<label>REMS GOALS</label>
+			<value>82349-2</value>
+		</choice>
+		<choice>
+			<label>REMS IMPLEMENTATION SYSTEM</label>
+			<value>82350-0</value>
+		</choice>
+		<choice>
+			<label>REMS MATERIAL</label>
+			<value>82346-8</value>
+		</choice>
+		<choice>
+			<label>REMS MEDICATION GUIDE</label>
+			<value>82598-4</value>
+		</choice>
+		<choice>
+			<label>REMS PARTICIPANT REQUIREMENTS</label>
+			<value>87525-2</value>
+		</choice>
+		<choice>
+			<label>REMS REQUIREMENTS</label>
+			<value>87524-5</value>
+		</choice>
+		<choice>
+			<label>REMS SUMMARY</label>
+			<value>82347-6</value>
+		</choice>
+		<choice>
+			<label>REMS TIMETABLE FOR SUBMISSION ASSESSMENTS</label>
+			<value>82352-6</value>
+		</choice>
+		<choice>
+			<label>RENAL IMPAIRMENT SUBSECTION</label>
+			<value>88828-9</value>
+		</choice>
+		<choice>
+			<label>RESIDUE WARNING SECTION</label>
+			<value>53412-3</value>
+		</choice>
+		<choice>
+			<label>RISKS</label>
+			<value>69759-9</value>
+		</choice>
+		<choice>
+			<label>ROUTE, METHOD AND FREQUENCY OF ADMINISTRATION</label>
+			<value>60562-6</value>
+		</choice>
+		<choice>
+			<label>SAFE HANDLING WARNING SECTION</label>
+			<value>50741-8</value>
+		</choice>
+		<choice>
+			<label>SPL INDEXING DATA ELEMENTS SECTION</label>
+			<value>48779-3</value>
+		</choice>
+		<choice>
+			<label>SPL LISTING DATA ELEMENTS SECTION</label>
+			<value>48780-1</value>
+		</choice>
+		<choice>
+			<label>SPL MEDGUIDE SECTION</label>
+			<value>42231-1</value>
+		</choice>
+		<choice>
+			<label>SPL PATIENT PACKAGE INSERT SECTION</label>
+			<value>42230-3</value>
+		</choice>
+		<choice>
+			<label>SPL PRODUCT DATA ELEMENTS SECTION</label>
+			<value>48780-1</value>
+		</choice>
+		<choice>
+			<label>SPL UNCLASSIFIED SECTION</label>
+			<value>42229-5</value>
+		</choice>
+		<choice>
+			<label>STATEMENT OF IDENTITY SECTION</label>
+			<value>69718-5</value>
+		</choice>
+		<choice>
+			<label>STORAGE AND HANDLING SECTION</label>
+			<value>44425-7</value>
+		</choice>
+		<choice>
+			<label>SUMMARY OF SAFETY AND EFFECTIVENESS</label>
+			<value>60563-4</value>
+		</choice>
+		<choice>
+			<label>TERATOGENIC EFFECTS SECTION</label>
+			<value>34077-8</value>
+		</choice>
+		<choice>
+			<label>TROUBLESHOOTING</label>
+			<value>69762-3</value>
+		</choice>
+		<choice>
+			<label>USE IN SPECIFIC POPULATIONS SECTION</label>
+			<value>43684-0</value>
+		</choice>
+		<choice>
+			<label>USER SAFETY WARNINGS SECTION</label>
+			<value>54433-8</value>
+		</choice>
+		<choice>
+			<label>VETERINARY INDICATIONS SECTION</label>
+			<value>50745-9</value>
+		</choice>
+		<choice>
+			<label>WARNINGS AND PRECAUTIONS SECTION</label>
+			<value>43685-7</value>
+		</choice>
+		<choice>
+			<label>WARNINGS SECTION</label>
+			<value>34071-1</value>
+		</choice>
+	</sectionHeading>
+</codeList>

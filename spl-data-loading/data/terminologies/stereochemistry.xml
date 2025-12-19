@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeList>
+	<stereochemistry>
+		<choice>
+			<label>SQUARE PLANAR 1</label>
+			<value>C103211</value>
+		</choice>
+		<choice>
+			<label>SQUARE PLANAR 2</label>
+			<value>C103212</value>
+		</choice>
+		<choice>
+			<label>SQUARE PLANAR 3</label>
+			<value>C103213</value>
+		</choice>
+		<choice>
+			<label>SQUARE PLANAR 4</label>
+			<value>C103214</value>
+		</choice>
+		<choice>
+			<label>TETRAHEDRAL</label>
+			<value>C103215</value>
+		</choice>
+		<choice>
+			<label>OCTAHEDRAL 12</label>
+			<value>C103216</value>
+		</choice>
+		<choice>
+			<label>OCTAHEDRAL 22</label>
+			<value>C103217</value>
+		</choice>
+		<choice>
+			<label>OCTAHEDRAL 21</label>
+			<value>C103218</value>
+		</choice>
+		<choice>
+			<label>CAHN-INGOLD-PRELOG PRIORITY SYSTEM</label>
+			<value>C103219</value>
+		</choice>
+		<choice>
+			<label>AXIAL R</label>
+			<value>C103220</value>
+		</choice>
+		<choice>
+			<label>AXIAL S</label>
+			<value>C103221</value>
+		</choice>
+	</stereochemistry>
+</codeList>

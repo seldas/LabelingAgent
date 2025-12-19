@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeList>
+	<documentType>
+		<choice>
+			<label>ANIMAL COMPOUNDED DRUG LABEL</label>
+			<value>77647-6</value>
+		</choice>
+		<choice>
+			<label>BLANKET NO CHANGES CERTIFICATION OF PRODUCT LISTING</label>
+			<value>86445-4</value>
+		</choice>
+		<choice>
+			<label>BULK INGREDIENT</label>
+			<value>53409-9</value>
+		</choice>
+		<choice>
+			<label>BULK INGREDIENT - ANIMAL DRUG</label>
+			<value>81203-2</value>
+		</choice>
+		<choice>
+			<label>CELLULAR THERAPY</label>
+			<value>60684-8</value>
+		</choice>
+		<choice>
+			<label>COSMETIC</label>
+			<value>58474-8</value>
+		</choice>
+		<choice>
+			<label>DIETARY SUPPLEMENT</label>
+			<value>58476-3</value>
+		</choice>
+		<choice>
+			<label>DRUG FOR FURTHER PROCESSING</label>
+			<value>78744-0</value>
+		</choice>
+		<choice>
+			<label>ESTABLISHMENT DE-REGISTRATION</label>
+			<value>70097-1</value>
+		</choice>
+		<choice>
+			<label>ESTABLISHMENT REGISTRATION</label>
+			<value>51725-0</value>
+		</choice>
+		<choice>
+			<label>FDA-INITIATED COMPLIANCE ACTION DRUG REGISTRATION AND DRUG LISTING INACTIVATION</label>
+			<value>89600-1</value>
+		</choice>
+		<choice>
+			<label>GENERIC DRUG FACILITY IDENTIFICATION SUBMISSION</label>
+			<value>71743-9</value>
+		</choice>
+		<choice>
+			<label>HUMAN COMPOUNDED DRUG LABEL</label>
+			<value>75031-5</value>
+		</choice>
+		<choice>
+			<label>HUMAN OTC DRUG LABEL</label>
+			<value>34390-5</value>
+		</choice>
+		<choice>
+			<label>HUMAN PRESCRIPTION DRUG LABEL</label>
+			<value>34391-3</value>
+		</choice>
+		<choice>
+			<label>IDENTIFICATION OF CBER-REGULATED GENERIC DRUG FACILITY</label>
+			<value>72090-4</value>
+		</choice>
+		<choice>
+			<label>INDEXING - BILLING UNIT</label>
+			<value>71446-9</value>
+		</choice>
+		<choice>
+			<label>INDEXING - BIOLOGIC OR DRUG SUBSTANCE</label>
+			<value>77648-4</value>
+		</choice>
+		<choice>
+			<label>INDEXING - DRUG INTERACTIONS</label>
+			<value>93723-5</value>
+		</choice>
+		<choice>
+			<label>INDEXING - INDICATION</label>
+			<value>63417-0</value>
+		</choice>
+		<choice>
+			<label>INDEXING - NATIONAL CLINICAL TRIALS NUMBER</label>
+			<value>93372-1</value>
+		</choice>
+		<choice>
+			<label>INDEXING - PHARMACOLOGIC CLASS</label>
+			<value>60685-5</value>
+		</choice>
+		<choice>
+			<label>INDEXING - PRODUCT CONCEPT</label>
+			<value>73815-3</value>
+		</choice>
+		<choice>
+			<label>INDEXING - RISK EVALUATION &amp; MITIGATION STRATEGIES</label>
+			<value>82353-4</value>
+		</choice>
+		<choice>
+			<label>INDEXING - SUBSTANCE</label>
+			<value>64124-1</value>
+		</choice>
+		<choice>
+			<label>INDEXING - WARNING LETTER ALERT</label>
+			<value>77288-9</value>
+		</choice>
+		<choice>
+			<label>LICENSE BLOOD INTERMEDIATES/PASTE LABEL</label>
+			<value>53407-3</value>
+		</choice>
+		<choice>
+			<label>LICENSED MINIMALLY MANIPULATED CELLS LABEL</label>
+			<value>53408-1</value>
+		</choice>
+		<choice>
+			<label>LICENSED VACCINE BULK INTERMEDIATE LABEL</label>
+			<value>53406-5</value>
+		</choice>
+		<choice>
+			<label>LOT DISTRIBUTION DATA</label>
+			<value>66105-8</value>
+		</choice>
+		<choice>
+			<label>MEDICAL DEVICE</label>
+			<value>55439-4</value>
+		</choice>
+		<choice>
+			<label>MEDICAL FOOD</label>
+			<value>58475-5</value>
+		</choice>
+		<choice>
+			<label>NO CHANGE NOTIFICATION</label>
+			<value>53410-7</value>
+		</choice>
+		<choice>
+			<label>NON-STANDARDIZED ALLERGENIC LABEL</label>
+			<value>53405-7</value>
+		</choice>
+		<choice>
+			<label>NDC LABELER CODE INACTIVATION</label>
+			<value>69968-6</value>
+		</choice>
+		<choice>
+			<label>NDC LABELER CODE INACTIVATION - ANIMAL DRUG</label>
+			<value>81204-0</value>
+		</choice>
+		<choice>
+			<label>NDC LABELER CODE REQUEST - ANIMAL DRUG</label>
+			<value>72871-7</value>
+		</choice>
+		<choice>
+			<label>NDC/NHRIC LABELER CODE REQUEST</label>
+			<value>51726-8</value>
+		</choice>
+		<choice>
+			<label>OTC ANIMAL DRUG LABEL</label>
+			<value>50577-6</value>
+		</choice>
+		<choice>
+			<label>OTC MEDICAL DEVICE LABEL</label>
+			<value>69403-4</value>
+		</choice>
+		<choice>
+			<label>OTC TYPE A MEDICATED ARTICLE ANIMAL DRUG LABEL</label>
+			<value>50576-8</value>
+		</choice>
+		<choice>
+			<label>OTC TYPE B MEDICATED FEED ANIMAL DRUG LABEL</label>
+			<value>50574-3</value>
+		</choice>
+		<choice>
+			<label>OTC TYPE C MEDICATED FEED ANIMAL DRUG LABEL</label>
+			<value>50573-5</value>
+		</choice>
+		<choice>
+			<label>OUT OF BUSINESS NOTIFICATION</label>
+			<value>53411-5</value>
+		</choice>
+		<choice>
+			<label>PLASMA DERIVATIVE</label>
+			<value>60683-0</value>
+		</choice>
+		<choice>
+			<label>PRESCRIPTION ANIMAL DRUG LABEL</label>
+			<value>50578-4</value>
+		</choice>
+		<choice>
+			<label>PRESCRIPTION MEDICAL DEVICE LABEL</label>
+			<value>69404-2</value>
+		</choice>
+		<choice>
+			<label>RECOMBINANT DEOXYRIBONUCLEIC ACID CONSTRUCT LABEL</label>
+			<value>78745-7</value>
+		</choice>
+		<choice>
+			<label>REMS CONVERSION TO SHARED SYSTEM</label>
+			<value>85273-1</value>
+		</choice>
+		<choice>
+			<label>REMS RELEASE</label>
+			<value>85274-9</value>
+		</choice>
+		<choice>
+			<label>RISK EVALUATION &amp; MITIGATION STRATEGIES</label>
+			<value>82351-8</value>
+		</choice>
+		<choice>
+			<label>STANDARDIZED ALLERGENIC</label>
+			<value>60682-2</value>
+		</choice>
+		<choice>
+			<label>VACCINE LABEL</label>
+			<value>53404-0</value>
+		</choice>
+		<choice>
+			<label>VFD TYPE A MEDICATED ARTICLE ANIMAL DRUG LABEL</label>
+			<value>50575-0</value>
+		</choice>
+		<choice>
+			<label>VFD TYPE B MEDICATED FEED ANIMAL DRUG LABEL</label>
+			<value>50572-7</value>
+		</choice>
+		<choice>
+			<label>VFD TYPE C MEDICATED FEED ANIMAL DRUG LABEL</label>
+			<value>50571-9</value>
+		</choice>
+		<choice>
+			<label>WHOLESALE DRUG DISTRIBUTORS AND THIRD-PARTY LOGISTICS FACILITY REPORT</label>
+			<value>75030-7</value>
+		</choice>
+		<choice>
+			<label>WITHDRAWAL OF WHOLESALE DRUG DISTRIBUTORS AND THIRD-PARTY LOGISTICS FACILITY REPORT</label>
+			<value>77573-4</value>
+		</choice>
+	</documentType>
+</codeList>
